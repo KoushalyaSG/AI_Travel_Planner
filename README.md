@@ -12,11 +12,11 @@ AI-powered travel itinerary generator built with React, FastAPI and AI.
 
 <p align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/AI-Travel-Planner?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/KoushalyaSG/AI-Travel-Planner?style=for-the-badge)
 
-![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-Travel-Planner?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SUMAN-CHOUDHARI/AI-Travel-Planner?style=for-the-badge)
 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/AI-Travel-Planner?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Ravikallure/AI-Travel-Planner?style=for-the-badge)
 
 ![License](https://img.shields.io/github/license/yourusername/AI-Travel-Planner?style=for-the-badge)
 
