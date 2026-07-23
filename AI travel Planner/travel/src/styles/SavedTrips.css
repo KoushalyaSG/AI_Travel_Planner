@@ -1,0 +1,28 @@
+.saved-trips {
+  min-height: 100vh;
+  padding: 40px;
+  background: #f5f7fa;
+}
+
+.saved-trips h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.empty-state {
+  background: white;
+  padding: 50px;
+  border-radius: 15px;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.empty-state h2 {
+  margin-bottom: 15px;
+}
+
+.empty-state p {
+  color: #666;
+}

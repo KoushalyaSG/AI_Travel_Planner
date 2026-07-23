@@ -1,0 +1,81 @@
+.loading-page{
+
+height:100vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+background:linear-gradient(135deg,#2563eb,#0ea5e9);
+
+}
+
+.loading-box{
+
+background:white;
+
+padding:50px;
+
+border-radius:25px;
+
+width:600px;
+
+text-align:center;
+
+box-shadow:0 20px 50px rgba(0,0,0,.25);
+
+}
+
+.loading-box h1{
+
+color:#2563eb;
+
+margin-bottom:10px;
+
+}
+
+.loading-box h2{
+
+margin-bottom:30px;
+
+}
+
+.loading-step{
+
+margin:15px 0;
+
+font-size:18px;
+
+text-align:left;
+
+}
+
+.loader{
+
+margin:30px auto;
+
+width:70px;
+
+height:70px;
+
+border:8px solid #ddd;
+
+border-top:8px solid #2563eb;
+
+border-radius:50%;
+
+animation:spin 1s linear infinite;
+
+}
+
+@keyframes spin{
+
+100%{
+
+transform:rotate(360deg);
+
+}
+
+}
